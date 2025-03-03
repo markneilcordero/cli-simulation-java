@@ -1,0 +1,15 @@
+{
+  "MarkNeil" : {
+    "username" : "MarkNeil",
+    "balance" : 300.0,
+    "transactions" : [ {
+      "type" : "Deposit",
+      "amount" : 500.0,
+      "description" : "Salary Payment"
+    }, {
+      "type" : "Withdraw",
+      "amount" : 200.0,
+      "description" : "Grocery Shopping"
+    } ]
+  }
+}
